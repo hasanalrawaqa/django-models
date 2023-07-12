@@ -11,7 +11,7 @@
 
 -  python 3.10.7
 
-## [Pull requests](https://github.com/IsmailAlamir/django-models/pull/1)
+## [Pull requests](https://github.com/hasanalrawaqa/django-models/pull/1)
 
 
 #### run the server
